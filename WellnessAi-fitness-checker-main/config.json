@@ -1,0 +1,7 @@
+{
+  "param": {
+    "gmail-user": "your-email@gmail.com",
+    "gmail-password": "your-app-password",
+    "openai-api-key": "your-openai-api-key"
+  }
+}
