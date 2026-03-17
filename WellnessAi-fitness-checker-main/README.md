@@ -1,4 +1,4 @@
-# WellnessAI - AI-Powered Health & Fitness Tracker
+# UpTrack - AI-Powered Health & Fitness Tracker
 
 WellnessAI is a full-stack health and fitness web application powered by dual AI (Google Gemini + OpenAI) with real-time posture detection, personalized workout/nutrition planning, and comprehensive health tracking. Built with Flask, MongoDB, and a modern Tailwind CSS UI.
 
