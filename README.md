@@ -10,7 +10,7 @@ UpTrack is a full-stack health and fitness web application powered by dual AI (G
 - **Nutrition Tracking**: Log meals with calories and macronutrients (protein, carbs, fat)
 - **Goal Setting**: Set and track fitness goals with deadlines and status monitoring
 - **Progress Visualization**: Interactive charts using Plotly.js for steps, calories, and workout trends
-- **BMR/TDEE Calculator**: Personalized calorie targets using the Mifflin-St Jeor equation
+- **BMR/TDEE Calculator**.: Personalized calorie targets using the Mifflin-St Jeor equation
 
 ### AI-Powered Features
 - **AI Workout Generator**: Personalized workout plans based on your goals, available time, and equipment (Gemini / OpenAI)
